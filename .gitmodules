@@ -1,0 +1,3 @@
+[submodule "thirdparty/nsepy"]
+	path = thirdparty/nsepy
+	url = git@github.com:prasad-joshi/nsepy.git
